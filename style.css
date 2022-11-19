@@ -1,0 +1,22 @@
+.container {
+    position: relative;
+    left: 500px;
+    top: 200px;
+}
+
+table, tr, td,th {
+    border: 1px solid black;
+}
+
+th {
+    padding: 0px 15px;
+}
+
+td {
+    padding-right: 15px;
+}
+
+#footer {
+    text-align: center;
+}
+
